@@ -371,3 +371,9 @@ export default function LandingPage() {
 ![1ead9dc69a75086247d72aec2c71cf45_ck8kl514msb3id563j80_image_1](https://github.com/user-attachments/assets/b8e98b0c-5493-4289-9f83-00a922bd27b9)
 ![1c73ee86-fb96-4e8a-a86a-d712b6e71c75](https://github.com/user-attachments/assets/a3a57d22-7eaf-4cb8-a054-8401f558b7f7)
 ![00fb56befd4843f1a07e81bde5be81cd png~tplv-6bxrjdptv7-image](https://github.com/user-attachments/assets/4c01dd7e-f5be-449a-b56d-e70f2f3d6774)
+
+
+git add .
+git commit -m "Initial commit"
+git push origin main
+
